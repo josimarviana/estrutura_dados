@@ -14,7 +14,6 @@ void empilhar(int valor){
         return;
     }
     pilha[topo++]=valor;
-
 }
 
 int mostrar() {
